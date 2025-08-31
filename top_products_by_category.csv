@@ -1,0 +1,31 @@
+product_category,product_key,sales_amount,rank_in_category,orders
+Bedroom,Mattress | Wayfair,8003.6900000000005,1.0,4
+Bedroom,Mattress | Target,7477.01,2.0,4
+Bedroom,Chest of Drawers | Overstock,7410.75,3.0,3
+Bedroom,Bed Frame | Ashley Furniture,7206.9400000000005,4.0,4
+Bedroom,Chest of Drawers | Urban Outfitters,6773.16,5.0,3
+Dining Room,Buffet | West Elm,6083.91,1.0,5
+Dining Room,Dining Table | Crate & Barrel,6049.35,2.0,4
+Dining Room,Dining Chair | Overstock,5531.04,3.0,4
+Dining Room,Bar Stool | World Market,5309.92,4.0,4
+Dining Room,Buffet | World Market,4422.9800000000005,5.0,5
+Kitchen,Bar Cart | Pottery Barn,11074.51,1.0,6
+Kitchen,Kitchen Island | Ashley Furniture,9320.18,2.0,4
+Kitchen,Pantry Cabinet | HomeGoods,8973.02,3.0,8
+Kitchen,Pantry Cabinet | Crate & Barrel,8584.26,4.0,5
+Kitchen,Kitchen Cabinet | CB2,7198.42,5.0,3
+Living Room,Ottoman | Target,13123.220000000001,1.0,7
+Living Room,Coffee Table | West Elm,7265.4400000000005,2.0,4
+Living Room,Armchair | Urban Outfitters,7083.889999999999,3.0,4
+Living Room,Sofa | Overstock,6879.79,4.0,3
+Living Room,Coffee Table | World Market,6658.17,5.0,3
+Office,Computer Table | Ashley Furniture,4419.7,1.0,4
+Office,Filing Cabinet | IKEA,4162.45,2.0,4
+Office,Bookshelf | Pottery Barn,3911.9,3.0,4
+Office,Office Chair | Target,3550.69,4.0,4
+Office,Office Chair | Pottery Barn,3486.59,5.0,3
+Outdoor,Garden Chair | IKEA,6026.98,1.0,5
+Outdoor,Lounge Chair | Crate & Barrel,5561.09,2.0,3
+Outdoor,Umbrella | IKEA,4692.05,3.0,4
+Outdoor,Outdoor Table | Wayfair,4551.92,4.0,4
+Outdoor,Garden Chair | Target,4420.53,5.0,4
